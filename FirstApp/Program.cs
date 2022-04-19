@@ -7,7 +7,7 @@ namespace FirstApp
         static void Main(string[] args)
         {
             string myName;
-            myName = "Alex";
+            myName = "Ура, я инициализировал переменную";
 
             Console.WriteLine(myName);
 
